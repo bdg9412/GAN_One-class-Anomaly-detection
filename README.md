@@ -7,3 +7,10 @@ generative model은 GAN을 사용하였다.
 2)GAN 구현 및 학습  
 3)GAN 성능 평가  
 4)머신러닝 분류기 사용  
+  
+Ref  
+1. https://www.kaggle.com/sekfook97/gan-for-anomaly-detection  
+2. https://github.com/bdg9412/handson-ml2  
+3. A. Géron, Hands-On Machine Learning with
+Scikit-Learn and TensorFlow, 한빛미디어, Seoul,
+2018
